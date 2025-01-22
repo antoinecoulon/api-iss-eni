@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url(background.jpg);
+  background-size: 200%;
+  color: aliceblue;
+}
+
+#map {
+  height: 360px;
+  width: 720px;
+  margin: 10px auto;
+  border: 2px solid aliceblue;
+}
+
+#results {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+header {
+  padding: 20px;
+  border: 2px solid aliceblue;
+  width: 720px;
+  margin: 20px auto;
+}
